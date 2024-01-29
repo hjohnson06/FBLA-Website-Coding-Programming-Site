@@ -4,3 +4,5 @@ This website features the following:
 - A page that lists reasons why a potential employee should apply to work 
 - A page that lists 3 job opportunities at the clinic
 - A submission form to apply for the jobs 
+
+NOTE: This is currently heavily INCOMPLETE.
