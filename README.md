@@ -9,5 +9,5 @@ All images are from the website Unsplash: https://unsplash.com/
 
 Responsibilities and requirements section for the job postings were referenced from Indeed:
 - https://www.indeed.com/hire/job-description/nurse-practitioner
-- https://www.indeed.com/hire/job-description/receptionist
+- https://www.indeed.com/hire/job-description/medical-receptionist
 - https://www.indeed.com/hire/job-description/lab-technician
