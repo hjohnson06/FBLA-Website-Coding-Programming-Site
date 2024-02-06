@@ -4,3 +4,5 @@ This website contains the following:
 - A page listing job openings
 - A page listing why someone should apply to work at the business
 - An form through which an applicant may submit an application.
+
+All images are from the website Unsplash: https://unsplash.com/
