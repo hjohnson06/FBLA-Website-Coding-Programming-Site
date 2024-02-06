@@ -37,13 +37,18 @@
             font-size: 16pt; 
         }
 
-        input, select, textarea {
+        select, textarea {
             width: 100%;
             padding: 8px;
             margin-bottom: 16px;
             border: 1px solid #bdbdbd;
             border-radius: 4px;
             box-sizing: border-box;
+        }
+
+        .input  {
+            max-width: 80%;
+            padding: 8px; 
         }
 
         .submit {
@@ -108,7 +113,7 @@
         <input type="email">
 
         <label for="cellnum" >Phone Number:</label>
-        <input placeholder="Ex: (123) 456-7890">
+        <input placeholder="Ex: (123) 456-7890" type="number">
 
         <label for="resume">Resume (PDF):</label>
         <input type="file" accept=".pdf">
