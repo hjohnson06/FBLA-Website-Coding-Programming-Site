@@ -11,3 +11,6 @@ Responsibilities and requirements section for the job postings were referenced f
 - https://www.indeed.com/hire/job-description/nurse-practitioner
 - https://www.indeed.com/hire/job-description/medical-receptionist
 - https://www.indeed.com/hire/job-description/lab-technician
+
+By: Hanna Johnson
+Nebraska FBLA - 2024 
