@@ -1,4 +1,4 @@
-Hello! I'm Hanna Johnson, and this is my submission for the FBLA Website Coding & Development competition. The business that the website is for is a fictional business called "Great Peninsula Clinic". 
+Hello! I'm Hanna Johnson(Ravenna), and this is my submission for the FBLA Website Coding & Development competition. The business that the website is for is a fictional business called "Great Peninsula Clinic". 
 
 This website contains the following: 
 - A page listing job openings
@@ -13,4 +13,6 @@ Responsibilities and requirements section for the job postings were referenced f
 - https://www.indeed.com/hire/job-description/lab-technician
 
 By: Hanna Johnson <br>
-Nebraska FBLA - 2024 
+Ravenna High School <br>
+Website Coding & Development <br>
+Nebraska FBLA - 2024
